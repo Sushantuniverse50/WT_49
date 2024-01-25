@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="student.css"?> 
+<student> 
+	<heading> STUDENT DETAILS </heading> 
+	<student> 
+		<name>Name -: Sujal Vadgave</name> 
+		<address>address -: Ruikar Colony , Kolhapur</address> 
+		<gmail>gmail -: sujalvadgave23@gmail.com</gmail> 
+		<rollno>roll no -:20</rollno> 
+	
+	</student> 
+	<student> 
+        <name>Name -: Atharv Pharakte</name>
+        <address>address -: Kasaba Bawada , Kolhapur</address> 
+        <gmail>gmail -: atharva1999@gmail.com</gmail>
+        <rollno>roll no -:41</rollno> 
+	</student> 
+
+    <student> 
+        <name>Name -: Pratik Patil</name>
+        <address>address -: Creshar Chowk , Kolhapur</address> 
+        <gmail>gmail -: pratikpatil100@gmail.com</gmail>
+        <rollno>roll no -:63</rollno> 
+	</student> 
+
+    <student> 
+        <name>Name -: Sushant Hawaldar</name>
+        <address>address -: Sane Guruji Vasahat , Kolhapur</address> 
+        <gmail>gmail -: sushanthawaldar67@gmail.com</gmail>
+        <rollno>roll no -:49</rollno> 
+	</student> 
+    <student> 
+        <name>Name -: Omkar Adagale</name>
+        <address>address -: Gandhi Nagar , Kolhapur</address> 
+        <gmail>gmail -: omkaradagale67@gmail.com</gmail>
+        <rollno>roll no -:43</rollno> 
+	</student> 
+</student>
